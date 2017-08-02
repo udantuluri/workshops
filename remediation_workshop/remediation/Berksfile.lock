@@ -1,0 +1,7 @@
+DEPENDENCIES
+  remediation
+    path: .
+    metadata: true
+
+GRAPH
+  remediation (0.1.0)
